@@ -1,0 +1,7 @@
+target:
+  - url: "swift/"
+  - url: "test/"
+
+include:  []
+
+reinit: "a-random-string"
